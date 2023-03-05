@@ -1,0 +1,23 @@
+sport
+	warmup
+	arbeitsgewicht übungen
+	calisthenics skills
+	timer
+	trainingsplan / ablauf
+	post workout routine
+mobility
+	sehnen dehnen
+	gelenke härten
+ernährung
+	kochen
+	makros
+träume
+	eintrag jeden tag
+fortschritt in serien (fernsehserien, buchserien, ...)
+stats (private stats)
+routine
+	jeden tag traum aufschreiben
+	jede woche 5 min dehnen
+
+=> module
+
