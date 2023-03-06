@@ -1,4 +1,6 @@
 sport
+  => auwahl von kategorie durch vorderansicht
+  und hinteransicht vom körper
 	warmup
 	arbeitsgewicht übungen
 	calisthenics skills
@@ -13,6 +15,7 @@ ernährung
 	makros
   wasser
   gewicht tracken mit graphen
+  caloric surplus / deficit Kreis so wie bei wasser
 träume
 	eintrag jeden tag
 fortschritt in serien (fernsehserien, buchserien, ...)
@@ -20,6 +23,10 @@ stats (private stats)
 routine
 	jeden tag traum aufschreiben
 	jede woche 5 min dehnen
+wöchentliche ziele
+  11 minuten deliberate cold exposure
+  5 min dehnen
+  2.5 liter wasser am tag
 
 => module
 
