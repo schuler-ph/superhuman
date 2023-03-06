@@ -11,6 +11,8 @@ mobility
 ernährung
 	kochen
 	makros
+  wasser
+  gewicht tracken mit graphen
 träume
 	eintrag jeden tag
 fortschritt in serien (fernsehserien, buchserien, ...)
