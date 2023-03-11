@@ -1,5 +1,6 @@
-interface Product {
+type Product = {
   id: Number,
-  title: String,
-  price: Number
+  title: string,
+  price: Number,
+  description: string,
 }
