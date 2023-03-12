@@ -1,5 +1,11 @@
 {
   "private": true,
+  "name": "superhuman",
+  "version": "1.0.0",
+  "description": "Frontend for Bigbrain",
+  "repository": "https://github.com/schuler-ph/superhuman.git",
+  "author": "Philipp Schuler <schulerp03@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
