@@ -6,6 +6,9 @@ sport
 	calisthenics skills
 	timer
 	trainingsplan / ablauf
+	weighted calisthenics
+	muskelgruppen sets pro woche
+	rep timer
 	post workout routine
 mobility
 	sehnen dehnen
