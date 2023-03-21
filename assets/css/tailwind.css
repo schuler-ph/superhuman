@@ -13,4 +13,8 @@ body {
   .card {
     @apply p-3 rounded-md bg-white shadow-md h-full;
   }
+
+  .navHoverLink {
+    @apply hover:text-teal-500 dark:hover:text-teal-400 font-bold;
+  }
 }
