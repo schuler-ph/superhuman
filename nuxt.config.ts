@@ -5,7 +5,7 @@ export default defineNuxtConfig({
         typeCheck: true,
         strict: true,
     },
-    modules: ["@nuxtjs/tailwindcss"],
+    modules: ["@nuxtjs/tailwindcss", "nuxt-icon"],
     // buildModules: ["@nuxtjs/svg"],
     app: {
         head: {
