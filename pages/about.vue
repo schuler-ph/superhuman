@@ -6,6 +6,7 @@
     <!-- logos:visual-studio-code  logos:github-icon   logos:html-5 logos:css-3 logos:javascript logos:postman-icon
     logos:nodejs-icon logos:typescript-icon logos:nodemon
     -->
+
     <Icon name="logos:vue" />
     <Icon name="logos:nuxt-icon" />
     <Icon name="logos:tailwindcss-icon" />
@@ -26,7 +27,5 @@
 
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
 
