@@ -7,14 +7,14 @@
     logos:nodejs-icon logos:typescript-icon logos:nodemon
     -->
 
-    <Icon name="logos:vue" />
+    <!-- <Icon name="logos:vue" />
     <Icon name="logos:nuxt-icon" />
     <Icon name="logos:tailwindcss-icon" />
     <Icon name="logos:netlify" />
     <Icon name="simple-icons:express" />
     <Icon name="logos:postgresql" />
     <Icon name="logos:aws-rds" />
-    <Icon name="logos:aws" />
+    <Icon name="logos:aws" /> -->
   </div>
 </template>
 
