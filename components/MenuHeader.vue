@@ -3,9 +3,9 @@
     <div class="mx-auto max-w-screen-xl">
       <div class="border-b border-cBorder py-4 px-4 dark:border-cDarkBorder lg:border-0 lg:px-8">
         <div class="flex h-8">
-          <div class="flex w-8 items-center min-[400px]:w-auto">
-            <div class="h-8 w-8 bg-cPrimary min-[400px]:mr-3"></div>
-            <div class="hidden text-xl font-bold text-cTitle dark:text-cDarkTitle min-[400px]:block">superhuman</div>
+          <div class="flex w-8 items-center min-[350px]:w-auto">
+            <div class="h-8 w-8 bg-cPrimary min-[350px]:mr-3"></div>
+            <div class="hidden text-xl font-bold text-cTitle dark:text-cDarkTitle min-[350px]:block">superhuman</div>
           </div>
 
           <nav class="ml-auto hidden items-center font-bold text-cSmTitle dark:text-cDarkSmTitle lg:flex">
