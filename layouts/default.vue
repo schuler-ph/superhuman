@@ -8,6 +8,8 @@
       <div class="lg:ml-52">
         <div class="max-w-3xl pt-10 mx-auto">
           <slot />
+
+          <DocumentFooter />
         </div>
       </div>
     </div>

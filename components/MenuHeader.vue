@@ -4,7 +4,7 @@
       <div class="border-b border-cBorder py-4 px-4 dark:border-cDarkBorder lg:border-0 lg:px-8">
         <div class="flex h-8">
           <div class="flex w-8 items-center min-[350px]:w-auto">
-            <div class="h-8 w-8 bg-cPrimary min-[350px]:mr-3"></div>
+            <img src="~/assets/svg/icon.svg" alt="superhuman Logo" class="h-8 w-8 min-[350px]:mr-3"/>
             <div class="hidden text-xl font-bold text-cTitle dark:text-cDarkTitle min-[350px]:block">superhuman</div>
           </div>
 
