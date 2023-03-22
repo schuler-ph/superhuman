@@ -34,3 +34,5 @@ wöchentliche ziele
 => module
 
 mit einem link kann man sofort wasser hinzufügen damit man sie am startbildschirm als link abspeichern kann
+
+iconify intellisense
