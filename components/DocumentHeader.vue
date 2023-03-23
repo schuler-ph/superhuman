@@ -9,11 +9,9 @@
 
 <script setup lang="ts">
 const props = defineProps({
-  title: { type: string, required: true },
-  subtitle: string
+  title: { type: String, required: true },
+  subtitle: String
 })
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
