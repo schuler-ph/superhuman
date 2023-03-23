@@ -1,6 +1,7 @@
 <template>
   <div>
-    Memory
+    <DocumentHeader title="Memory" subtitle="Track things you would forget" />
+    <NuxtLink to="/memory/bodycomposition">Body composition</NuxtLink>
   </div>
 </template>
 

@@ -24,8 +24,8 @@
               </li>
             </ul>
             <ul class="ml-6 flex space-x-6 border-l border-cBorder pl-6 dark:border-cDarkBorder">
-              <li class="navHoverLink">Sun</li>
-              <li class="navHoverLink">GH</li>
+              <li><button @click="clickColorTheme">Sun</button></li>
+              <li>GH</li>
             </ul>
           </nav>
 
@@ -38,7 +38,9 @@
 </template>
 
 <script setup lang="ts">
-
+function clickColorTheme(event) {
+  console.log("clicked theme")
+}
 </script>
 
 <style scoped>
