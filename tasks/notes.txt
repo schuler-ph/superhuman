@@ -1,6 +1,8 @@
 sport
   => auwahl von kategorie durch vorderansicht
   und hinteransicht vom körper
+	chord diagramm für muskelgruppen zusammenspiel?
+	https://plotapi.com/docs/visualizations/chord/
 	warmup
 	arbeitsgewicht übungen
 	calisthenics skills
